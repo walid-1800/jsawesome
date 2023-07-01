@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add YOLOv8 LibTorch C++ inference example (#7090)
