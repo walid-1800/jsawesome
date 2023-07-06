@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Compress docs images (#8124)
