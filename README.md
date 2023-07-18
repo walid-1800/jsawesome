@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Reverse IoU threshold for NMS docs descriptions (#9151)
