@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update inference.cpp (bug) (#7279)
