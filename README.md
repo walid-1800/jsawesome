@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add estimate_speed(region_color) parameter (#8285)
