@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Compress docs images (#8124)
