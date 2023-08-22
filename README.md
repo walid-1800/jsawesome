@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
