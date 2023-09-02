@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
