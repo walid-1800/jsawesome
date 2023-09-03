@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Fix IS_PYTHON_3_12 bug (#9258)
