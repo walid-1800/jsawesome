@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Use pathlib in DOTA ops (#7552)
