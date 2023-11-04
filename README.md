@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Update mkdocs.yml (#7693)
