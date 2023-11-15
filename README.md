@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Allow Annotator PIL.Image inputs (#8397)
