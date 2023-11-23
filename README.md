@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add Amazon Sagemaker Docs integrations page (#7293)
