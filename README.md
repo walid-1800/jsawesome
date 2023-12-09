@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
