@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
