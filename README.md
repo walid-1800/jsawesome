@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
