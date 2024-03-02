@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
