@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add quantization support to TensorFlow.js converter (#7008)
