@@ -1,1 +1,1 @@
-fix predict with class filter
+Remove JAX constraints in Exporter (#8309)
