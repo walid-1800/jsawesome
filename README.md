@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Pass callbacks to validator (#7320)
