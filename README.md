@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add YOLOv8 LibTorch C++ inference example (#7090)
