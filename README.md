@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
