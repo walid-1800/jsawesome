@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
