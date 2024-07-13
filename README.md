@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
