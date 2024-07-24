@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
