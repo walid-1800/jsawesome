@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix docker.yaml double-quote version bug (#7452)
