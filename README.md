@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
