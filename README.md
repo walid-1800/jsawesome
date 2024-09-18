@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
