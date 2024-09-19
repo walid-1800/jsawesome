@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
