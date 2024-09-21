@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Update Colab notebook for YOLOv8.1 (#8660)
