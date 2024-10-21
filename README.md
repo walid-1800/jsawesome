@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update the heatmap module code + docs (#7045)
