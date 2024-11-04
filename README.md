@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Elaborate Train and Predict mode docs arguments (#8137)
