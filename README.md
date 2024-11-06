@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
